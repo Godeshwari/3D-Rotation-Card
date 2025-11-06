@@ -39,8 +39,8 @@ dynamic and futuristic 3D effect that’s perfect for portfolios, galleries, or 
 <img width="1005" height="479" alt="Demo" src="https://github.com/user-attachments/assets/7f432988-c3c1-483d-8078-3ff9c286713b" />
 
 
-VIDEO 🎥
-https://github.com/user-attachments/assets/02a35fd4-1385-47aa-b1be-d6d6c0e3042f
+LIVE DEMO 🎥
+https://3-d-rotation-card-662c.vercel.app/
 
 
 🧠 How It Works
