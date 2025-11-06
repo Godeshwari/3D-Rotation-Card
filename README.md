@@ -29,11 +29,14 @@ dynamic and futuristic 3D effect that’s perfect for portfolios, galleries, or 
 
 ✅ Simple to customize — just replace the image sources!.
 
+
 🚀 Demo
 
 🌀 The cards rotate in a full 360° loop using CSS keyframes and 3D transformations.
 
 📸 Each side of the rotation displays one of your chosen images.
+
+<img width="1005" height="479" alt="Demo" src="https://github.com/user-attachments/assets/7f432988-c3c1-483d-8078-3ff9c286713b" />
 
 
 VIDEO 🎥
